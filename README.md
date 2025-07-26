@@ -19,5 +19,3 @@ Este projeto é uma réplica simplificada da página inicial da Amazon, criada p
 ## Imagens
 As imagens utilizadas estão na pasta `images/` e são apenas para fins ilustrativos.
 
-## Autor
-Projeto desenvolvido por Alexa para fins educacionais.
